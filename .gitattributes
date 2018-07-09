@@ -1,1 +1,1 @@
-*.r linguist-language=C
+*.r text eol=cr*.r linguist-language=Rez
